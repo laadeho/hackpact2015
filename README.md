@@ -1,8 +1,10 @@
 # hackpact2015
 Codes from my participation in the SuperCollider hackpact2015
 
-hosted at http://laad.com.mx/hackpact2015.html
+hosted at http://hackpact.laad.com.mx/2015/index.html
 
+For other proposals please visit:
+http://hackpact.laad.com.mx
 	
 
 	hackpact -> an agreement in order to generate and register something new each day during a determined amount of time; in this case it will last for 15 days, programming with SuperCollider.
